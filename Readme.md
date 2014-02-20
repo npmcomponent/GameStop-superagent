@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [gamestop/superagent](http://github.com/gamestop/superagent). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/gamestop-superagent`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # SuperAgent
 
   SuperAgent is a small progressive __client-side__ HTTP request library, and __Node.js__ module with the same API, sporting many high-level HTTP client features. View the [docs](http://visionmedia.github.com/superagent/).
